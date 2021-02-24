@@ -1,1 +1,1 @@
-# JS_lab_3.1_DOM
+#Практична робота №3.1DOM в JavaScript
